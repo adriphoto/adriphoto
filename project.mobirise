@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "galeria.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 53,
     "versionPublish": "4.7.2",
@@ -388,7 +388,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<i>Ilumina tus momentos.</i>",
+                "title": "<i>Expresa tu arte.</i>",
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "",
